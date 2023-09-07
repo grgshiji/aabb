@@ -1,0 +1,18 @@
+{
+  "blockId": "I-AfXa01U8ahLwWH6bSYE",
+  "name": "aabb_1",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/aabb.git",
+    "ssh": "git@github.com:grgshiji/aabb.git",
+    "branch": "block_aabb_1"
+  },
+  "parentBlockIDs": [
+    "O2WBD8KLYnGtreE5HtupJ"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true
+}
