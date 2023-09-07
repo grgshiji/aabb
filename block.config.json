@@ -1,0 +1,36 @@
+{
+  "name": "aabb",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/aabb.git",
+    "ssh": "git@github.com:grgshiji/aabb.git",
+    "branch": "block_aabb"
+  },
+  "dependencies": {
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "O2WBD8KLYnGtreE5HtupJ",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
