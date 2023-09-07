@@ -14,5 +14,8 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "isPublic": true
+  "isPublic": true,
+  "dependencies": {},
+  "version": "0.0.1",
+  "versionId": "jMIuv5iUUaCBSjbmhKWex"
 }
