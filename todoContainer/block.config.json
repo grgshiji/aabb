@@ -2,8 +2,8 @@
   "name": "todoContainer",
   "type": "ui-container",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/grgshiji/aabb.git",
+    "ssh": "git@github.com:grgshiji/aabb.git",
     "branch": "block_todoContainer"
   },
   "language": "js",

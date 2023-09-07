@@ -2,8 +2,8 @@
   "name": "aabb",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/aabb.git",
+    "ssh": "git@github.com:grgshiji/aabb.git",
     "branch": "block_aabb"
   },
   "dependencies": {
